@@ -1,0 +1,37 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS Browser Cleaner.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS Browser Cleaner.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS Browser Cleaner.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS Browser Cleaner.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.IMSS_SECTION_CLEAN.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.IMSS_SECTION_COMPLETE.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.IMSS_SECTION_MAIN.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.IMSS_SECTION_RESULT.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner._IMSS_ListItems.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.MainWindow.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS Browser Cleaner.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS Browser Cleaner.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS Browser Cleaner.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS Browser Cleaner.exe.config
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS Browser Cleaner.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS Browser Cleaner.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS Browser Cleaner.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS Browser Cleaner.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS Browser Cleaner.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS Browser Cleaner.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS_Multiuse.dll
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS_Multiuse.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Release\IMSS_Multiuse.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\ResolveAssemblyReference.cache
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.IMSS_SECTION_CLEAN.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.IMSS_SECTION_COMPLETE.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.IMSS_SECTION_MAIN.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.IMSS_SECTION_RESULT.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner._IMSS_ListItems.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.MainWindow.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\IMSS_Browser_Cleaner.Resources.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Release\GenerateResource-ResGen.write.1.tlog

@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Debug\IMSS Onerror Cleaner.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Debug\IMSS Onerror Cleaner.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Debug\IMSS Onerror Cleaner.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Debug\IMSS Onerror Cleaner.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Debug\IMSS_Onerror_Cleaner.MainWindow.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Debug\IMSS_Onerror_Cleaner.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Debug\IMSS Onerror Cleaner.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Debug\IMSS Onerror Cleaner.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Debug\IMSS Onerror Cleaner.pdb

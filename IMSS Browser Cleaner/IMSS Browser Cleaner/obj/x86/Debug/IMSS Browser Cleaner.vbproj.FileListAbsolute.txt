@@ -1,0 +1,16 @@
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Debug\IMSS Browser Cleaner.exe
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Debug\IMSS Browser Cleaner.pdb
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\bin\Debug\IMSS Browser Cleaner.xml
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\IMSS_Browser_Cleaner.MainWindow.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\IMSS_Browser_Cleaner.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\IMSS Browser Cleaner.exe
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\IMSS Browser Cleaner.xml
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\IMSS Browser Cleaner.pdb
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\IMSS_Browser_Cleaner.IMSS_SECTION_MAIN.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\IMSS_Browser_Cleaner.IMSS_SECTION_RESULT.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\IMSS_Browser_Cleaner._IMSS_ListItems.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\IMSS_Browser_Cleaner.IMSS_SECTION_CLEAN.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Browser Cleaner\IMSS Browser Cleaner\obj\x86\Debug\IMSS_Browser_Cleaner.IMSS_SECTION_COMPLETE.resources

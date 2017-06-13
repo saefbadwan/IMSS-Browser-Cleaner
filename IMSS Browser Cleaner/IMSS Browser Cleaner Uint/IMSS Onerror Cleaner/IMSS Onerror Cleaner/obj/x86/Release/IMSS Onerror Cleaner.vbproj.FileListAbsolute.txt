@@ -1,0 +1,24 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Release\IMSS Onerror Cleaner.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Release\IMSS Onerror Cleaner.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Release\IMSS Onerror Cleaner.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Release\IMSS Onerror Cleaner.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\IMSS_Onerror_Cleaner.MainWindow.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\IMSS_Onerror_Cleaner.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\IMSS Onerror Cleaner.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\IMSS Onerror Cleaner.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\IMSS Onerror Cleaner.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Release\IMSS Onerror Cleaner.exe.config
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\IMSS Onerror Cleaner.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\IMSS Onerror Cleaner.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\IMSS Onerror Cleaner.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Release\IMSS Onerror Cleaner.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Release\IMSS Onerror Cleaner.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\bin\Release\IMSS Onerror Cleaner.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\ResolveAssemblyReference.cache
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\IMSS_Onerror_Cleaner.MainWindow.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\IMSS_Onerror_Cleaner.Resources.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Browser Cleaner\IMSS Browser Cleaner Uint\IMSS Onerror Cleaner\IMSS Onerror Cleaner\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
